@@ -1,3 +1,23 @@
 # eshop-angular
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/w4n9hu1/eshop-angular)
+- Components
+    - TypeScript class
+        - @Input/Output
+        - ngOnInit()
+        - constructor
+            - DI
+    - HTML templete
+        - {{}}
+        - property binding []
+        - event handling ()
+    - CSS Style
+- Router	
+    - `</router-outlet>`
+- Angular Forms
+    - `[(ngModel)]`
+- Angular HttpClient
+    - async
+- Injectable service
+- Pipes
+    - formatting data
+
